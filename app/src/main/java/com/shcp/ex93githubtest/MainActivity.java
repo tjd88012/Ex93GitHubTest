@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         double b = 3.14;
 
+        //주석
+
     }
 }
