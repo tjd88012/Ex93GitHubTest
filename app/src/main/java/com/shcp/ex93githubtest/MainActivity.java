@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         int a = 10;
 
-        double b = 3.14;
+        double b = 10.55;
 
         //주석
 
